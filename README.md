@@ -6,4 +6,9 @@ Useful, interesting R-methods to use in data science! Available to anyone to use
 
 <br>
 
-<img src = "./3D Rotate parabaloid pink.gif" alt = "Rotating pink parabaloid" height = "720">
+<img src = "./3D Rotate parabaloid pink.gif" alt = "Rotating pink parabaloid" height = "480">
+
+<br>
+
+<img src = "./3D rotate gaussian green.gif" alt = "Rotating green gaussian" height = "480">
+
